@@ -1,0 +1,26 @@
+{
+  "name": "currency-converter-ankit",
+  "version": "1.0.0",
+  "description": "npm package to convert currency",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnkitSingh0702/currency-converter-ankit.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Ankit Singh",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/AnkitSingh0702/currency-converter-ankit/issues"
+  },
+  "homepage": "https://github.com/AnkitSingh0702/currency-converter-ankit#readme",
+  "dependencies": {
+    "@everapi/freecurrencyapi-js": "^1.0.1"
+  }
+}
